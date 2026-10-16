@@ -1,0 +1,10 @@
+QSTATE
+QADD https://example.org/a.png
+QADD https://example.org/b.png
+QTAKE
+QADD https://example.org/c.png
+QSTATE
+QTAKE
+QCLEAR
+QTAKE
+QUIT

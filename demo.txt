@@ -1,0 +1,11 @@
+STATE
+VISIT lab://arrays
+VISIT lab://stacks
+BACK
+FORWARD
+BACK
+VISIT lab://queues
+FORWARD
+RESET
+STATE
+QUIT
